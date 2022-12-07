@@ -1,4 +1,6 @@
-# WEB
+# > HI ! I'm a applications and web developer <
+
+## WEB
 - HTML
 - CSS
 - JAVASCRIPT
@@ -6,15 +8,15 @@
 - PHP
 - TAILWIND
 
-# SOFTWARE
+## SOFTWARE
 - C#
 - JAVA
 - C++
 - POWERSHELL
 
-# DATABASES
+## DATABASES
 - SQL
 - SQL-LITE
 
-# MOBILE
+## MOBILE
 - XAMARIN
