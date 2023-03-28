@@ -32,4 +32,4 @@
     | Html       |           |         |
     | Css        |           |         |
     | Php        |           |         |
-    | Javascript | Ajax |    |         |
+    | Javascript | Ajax |  w  |         |
