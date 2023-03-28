@@ -23,8 +23,13 @@
 
 
 
-| Languages | Libraries | Add-ons |
-| :--------------- |:---------------:| -----:|
-| Aligné à gauche  |   ce texte        |  Aligné à droite |
-| Aligné à gauche  | est             |   Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
+    | Languages  | Libraries | Add-ons |
+    |:----------:|:---------:|:-------:|
+    | C++        |           |         |
+    | C#         |           |         |
+    | Java       |           |         |
+    | ---------- | --------- | ------- |
+    | Html       |           |         |
+    | Css        |           |         |
+    | Php        |           |         |
+    | Javascript | Ajax |    |         |
