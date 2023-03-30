@@ -27,6 +27,7 @@
     </div>
     <div>
         <sub>What do i want to learn</sub>
+    
         | Languages                                                                                               | Libraries | Add-ons |
         |:-------------------------------------------------------------------------------------------------------:|:---------:|:-------:|
         | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />    |           |         |
