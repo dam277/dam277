@@ -29,3 +29,9 @@
         <img height="40" src="src/images/OpenGl.png" />
         </dd></dl></dd></dl></dd></dl>
     </div>
+</div>
+<br /> <br /> <br /> <hr />
+<div align="center">
+    <h2> Other links </h2>
+    My portfolio <a href="dam277.github.io/P-Portfolio/">
+</div>
