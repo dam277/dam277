@@ -1,33 +1,31 @@
 <div align="center">
     <h1> > WELCOME < </h1>
-<div>
-<hr />
-I'm Damien - 19 Years old - 3rd year apprentice developer
-<br />
-I love and I'm passionated about software and web development
-<hr />
+    I'm Damien - 19 Years old - 3rd year apprentice developer <br />
+    I love and I'm passionated about software and web development <br />
+    ✉️ You can reach me here <a href="mailto:damien.loup@gmail.com"> damien.loup@gmail.com </a>
 </div>
 <div align="left">
-<h2>What do i know ?</h2>
-
-| Languages  | Libraries | Other |
-|:-----------------------------------------------------------------------------------------------------------------:|:---------:|:----------------------------------------------------------------------------------------------------:|
-| <img src="src/images/Cpp.png" />    |           |              |
-| <img src="src/images/Csharp.png" />   |           |              |
-| <img src="src/images/Java.png" />                                                                                                |           |                                                                                                      |
-| <img src="src/images/Html.png" />            |           |                                                                                                      |
-| <img src="src/images/Css.png" />              |           |                                                                                                      |
-| <img src="src/images/Php.png" />                |           |                                                                                                      |
-| <img src="src/images/Javascript.png" /> | <img src="src/images/Ajax.png" />      | <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> |
-    
-<h2>What do i want to learn</h2>
-    
-| Languages                                                                                               | Libraries | Other   |
-|:-------------------------------------------------------------------------------------------------------:|:---------:|:-------:|
-| <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />    |           |         |
-| <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> |           |         |
-| <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />   |           |         |
-</div>
-<div align="right">
-    f
-</div>
+    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
+    <div>
+        <dl><dd><dl><dd><dl><dd>
+        <h2> Languages </h2>
+        <img height="40" src="src/images/Cpp.png" />
+        <img height="40" src="src/images/Csharp.png" />
+        <img height="40" src="src/images/Java.png" />
+        <img height="40" src="src/images/Html.png" />
+        <img height="40" src="src/images/Css.png" />
+        <img height="40" src="src/images/Javascript.png" />
+        <img height="40" src="src/images/Typescript.png" />
+        <img height="40" src="src/images/Php.png" />
+        <img height="40" src="src/images/Powershell.png" />
+        <img height="40" src="src/images/Sql.png" />
+        <img height="40" src="src/images/Sqlite.png" />
+        <h2> What I want to learn </h2>
+        <img height="40" width="100px" src="src/images/Dart.png" />
+        <img height="40" width="70px" src="src/images/Rust.png" />
+        <img height="40" src="src/images/Python.png" />
+        <img height="40" src="src/images/Sfml.png" />
+        <img height="40" src="src/images/Lwjgl.png" />
+        <img height="40" src="src/images/OpenGl.png" />
+        </dd></dl></dd></dl></dd></dl>
+    </div>
