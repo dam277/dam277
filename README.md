@@ -2,7 +2,7 @@
     <h1> > WELCOME < </h1>
     I'm Damien - 19 Years old - 3rd year apprentice developer <br />
     I love and I'm passionated about software and web development <br />
-    ✉️ You can reach me here <a href="mailto:damien.loup@gmail.com"> damien.loup@gmail.com </a>
+    ✉️ You can reach me here <a href="mailto:damien.loup14@gmail.com"> damien.loup14@gmail.com </a>
 </div>
 <div align="left">
     <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
