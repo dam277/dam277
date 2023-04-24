@@ -5,7 +5,7 @@
     ✉️ You can reach me here <a href="mailto:damien.loup14@gmail.com"> damien.loup14@gmail.com </a>
 </div>
 <div align="left">
-    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
     <div>
         <dl><dd><dl><dd><dl><dd>
         <h2> What i know </h2>
