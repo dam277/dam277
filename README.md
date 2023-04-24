@@ -17,6 +17,7 @@
         <img height="40" src="src/images/Javascript.png" />
         <img height="40" src="src/images/Typescript.png" />
         <img height="40" src="src/images/Php.png" />
+        <img height="40" src="src/images/Blade.png" />
         <img height="40" src="src/images/Powershell.png" />
         <img height="40" src="src/images/Sql.png" />
         <img height="40" src="src/images/Sqlite.png" />
