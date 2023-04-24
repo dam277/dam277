@@ -8,7 +8,7 @@
     <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
     <div>
         <dl><dd><dl><dd><dl><dd>
-        <h2> Languages </h2>
+        <h2> What i know </h2>
         <img height="40" src="src/images/Cpp.png" />
         <img height="40" src="src/images/Csharp.png" />
         <img height="40" src="src/images/Java.png" />
