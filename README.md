@@ -40,5 +40,5 @@
 <br /> <br /> <br /> <hr />
 <div align="center">
     <h2> Other links </h2>
-    <a href="https://dam277.github.io/P-Portfolio/">My portfolio</a>
+    <a href="https://dam277.github.io/dam277/">My portfolio</a>
 </div>
