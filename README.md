@@ -27,7 +27,13 @@
         <img height="40" src="src/images/Sfml.png" />
         <img height="40" src="src/images/Lwjgl.png" />
         <img height="40" src="src/images/OpenGl.png" />
+        <img height="40" src="src/images/Laravel.png" />
         <img height="40" src="src/images/React.png" />
+        <img height="40" src="src/images/Angular.png" />
+        <img height="40" src="src/images/Meteor.png" />
+        <img height="40" src="src/images/Three.png" />
+        <img height="40" src="src/images/Vue.png" />
+        <img height="40" src="src/images/Next.png" />
         </dd></dl></dd></dl></dd></dl>
     </div>
 </div>
