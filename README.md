@@ -40,7 +40,8 @@
         </dd></dl></dd></dl></dd></dl>
     </div>
 </div>
-<br /> <br /> <br /> <hr />
+<br /> <br /> <br /> 
+<hr />
 <div align="center">
     <h2> Other links </h2>
     <a href="https://dam277.github.io/dam277/">My portfolio</a>
