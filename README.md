@@ -37,6 +37,7 @@
         <img height="40" src="src/images/Three.png" />
         <img height="40" src="src/images/Vue.png" />
         <img height="40" src="src/images/Next.png" />
+        <img height="40" src="src/images/Electron.png" />
         </dd></dl></dd></dl></dd></dl>
     </div>
 </div>
