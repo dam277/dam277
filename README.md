@@ -41,7 +41,7 @@
         </dd></dl></dd></dl></dd></dl>
     </div>
 </div>
-<br /> <br /> <br /> 
+<br />
 <hr />
 <div align="center">
     <h2> Other links </h2>
