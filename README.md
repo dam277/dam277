@@ -22,6 +22,7 @@
         <img height="40" src="src/images/Powershell.png" />
         <img height="40" src="src/images/Sql.png" />
         <img height="40" src="src/images/Sqlite.png" />
+        <img height="40" src="src/images/React.png" />
         <h2> What I want to learn </h2>
         <img height="40" src="src/images/Dart.png" />
         <img height="40" src="src/images/Rust.png" />
@@ -31,7 +32,6 @@
         <img height="40" src="src/images/Lwjgl.png" />
         <img height="40" src="src/images/OpenGl.png" />
         <img height="40" src="src/images/Laravel.png" />
-        <img height="40" src="src/images/React.png" />
         <img height="40" src="src/images/Angular.png" />
         <img height="40" src="src/images/Meteor.png" />
         <img height="40" src="src/images/Three.png" />
