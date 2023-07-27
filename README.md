@@ -6,7 +6,7 @@
 </div>
 <div align="left">
     <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
-    <div>
+    <div width="55%">
         <dl><dd><dl><dd><dl><dd>
         <h2> What i know </h2>
         <img height="40" src="src/images/Cpp.png" />
