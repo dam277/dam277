@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> <img src="https://readme-typing-svg.demolab.com/?lines=>+WELCOME+<;>+ENJOY+EXPLORING+MY+PROJECTS+<;>+HEYY+!+<&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=40e0d0" alt="Example Usage - README Typing SVG"> </h1>
+    <h1> <img src="https://readme-typing-svg.demolab.com/?lines=>+WELCOME+<;>+ENJOY+EXPLORING+MY+PROJECTS+<;>+HEYY+!+<&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=54eadb" alt="Example Usage - README Typing SVG"> </h1>
     I'm Damien - 19 Years old - 3rd year apprentice developer <br />
     I love and I'm passionated about software and web development <br />
     ✉️ You can reach me here <a href="mailto:damien.loup14@gmail.com"> damien.loup14@gmail.com </a>
