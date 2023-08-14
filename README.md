@@ -51,9 +51,10 @@
         </dd></dl></dd></dl></dd></dl>
     </div>
     <br />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=dam277&show_icons=true&theme=dracula&line_height=33" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
 </div>
-<br />
 <hr />
 <div align="center">
     <h2> Other links </h2>
