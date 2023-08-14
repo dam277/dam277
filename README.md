@@ -49,3 +49,4 @@
     <h2> Other links </h2>
     <a href="https://dam277.github.io/dam277/">My portfolio</a>
 </div>
+<img src="" />
