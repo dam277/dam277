@@ -2,7 +2,7 @@
     <h1> <img src="https://readme-typing-svg.demolab.com/?lines=>+WELCOME+<;>+ENJOY+EXPLORING+MY+PROJECTS+<;>+HEYY+!+<&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=54eadb" alt="Example Usage - README Typing SVG"> </h1>
     I'm Damien - 19 Years old - 3rd year apprentice developer <br />
     I love and I'm passionated about software and web development <br />
-    ✉️ You can reach me here at damien.loup14@gmail.com </a> <br /> <br /> <br />
+    ✉️ You can reach me here at damien.loup14@gmail.com </a> <br /> <br />
     <a href="https://www.linkedin.com/in/damien-loup-797a94257/">
         <img src="https://img.shields.io/badge/-Damien%20Loup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-loup-797a94257/" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
