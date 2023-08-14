@@ -7,15 +7,14 @@
         <img src="https://img.shields.io/badge/-Damien%20Loup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-loup-797a94257/" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:damien.loup14@gmail.com">
-        <img src="https://img.shields.io/badge/-Damien%20Loup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-loup-797a94257/" />
+        <img src="https://img.shields.io/badge/-damien.loup@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damien.loup14@gmail.com" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/damien-loup-797a94257/">
-        <img src="https://img.shields.io/badge/-Damien%20Loup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-loup-797a94257/" />
+    <a href="https://github.com/dam277">
+        <img src="https://img.shields.io/badge/-dam277-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dam277" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<div align="left">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
-    <div align="left">
+<div align="center">
+    <div >
         <dl><dd><dl><dd><dl><dd>
         <h2> What i know </h2>
         <img height="40" src="src/images/Cpp.png" />
@@ -51,6 +50,8 @@
         <img height="40" src="src/images/UnrealEngine.png" />
         </dd></dl></dd></dl></dd></dl>
     </div>
+    <br />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
 </div>
 <br />
 <hr />
