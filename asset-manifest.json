@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/dam277/static/css/main.570fef9b.css",
-    "main.js": "/dam277/static/js/main.ee1918d2.js",
+    "main.js": "/dam277/static/js/main.dd946807.js",
     "static/media/portfolio.png": "/dam277/static/media/portfolio.2bf2c54b28c90ec5818e.png",
+    "static/media/smallPortrait.png": "/dam277/static/media/smallPortrait.dd39831e2a6e92284edc.png",
     "static/media/StyledComponents.png": "/dam277/static/media/StyledComponents.13efd064d512cbfccf65.png",
     "static/media/UnrealEngine.png": "/dam277/static/media/UnrealEngine.ad280a2fe859cc81c507.png",
     "static/media/Angular.png": "/dam277/static/media/Angular.b6d2a9dec3e43e0ffb95.png",
@@ -18,10 +19,10 @@
     "static/media/SpaceInvader.png": "/dam277/static/media/SpaceInvader.100417edec3c2b576313.png",
     "index.html": "/dam277/index.html",
     "main.570fef9b.css.map": "/dam277/static/css/main.570fef9b.css.map",
-    "main.ee1918d2.js.map": "/dam277/static/js/main.ee1918d2.js.map"
+    "main.dd946807.js.map": "/dam277/static/js/main.dd946807.js.map"
   },
   "entrypoints": [
     "static/css/main.570fef9b.css",
-    "static/js/main.ee1918d2.js"
+    "static/js/main.dd946807.js"
   ]
 }
