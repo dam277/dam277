@@ -1,12 +1,20 @@
 <div align="center">
-    <h1> <img src="https://readme-typing-svg.demolab.com/?lines=>+WELCOME+<;>+ENJOY+EXPLORING+MY+PROJECTS+<;>+HEYY+!+<&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=40e0d0" alt="Example Usage - README Typing SVG"> </h1>
+    <h1> <img src="src/images/style/welcome.svg" alt="Welcome to my account"> </h1>
     I'm Damien - 19 Years old - 3rd year apprentice developer <br />
     I love and I'm passionated about software and web development <br />
-    ✉️ You can reach me here <a href="mailto:damien.loup14@gmail.com"> damien.loup14@gmail.com </a>
+    ✉️ You can reach me here at <a href="mailto:damien.loup14@gmail.com">damien.loup14@gmail.com </a> <br /> <br />
+    <a href="https://www.linkedin.com/in/damien-loup-797a94257/">
+        <img src="https://img.shields.io/badge/-Damien%20Loup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-loup-797a94257/" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:damien.loup14@gmail.com">
+        <img src="https://img.shields.io/badge/-damien.loup@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:damien.loup14@gmail.com" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/dam277">
+        <img src="https://img.shields.io/badge/-dam277-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dam277" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<div align="left">
-    <img align="right" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
-    <div>
+<div align="center">
+    <div >
         <dl><dd><dl><dd><dl><dd>
         <h2> What i know </h2>
         <img height="40" src="src/images/Cpp.png" />
@@ -23,6 +31,7 @@
         <img height="40" src="src/images/Sql.png" />
         <img height="40" src="src/images/Sqlite.png" />
         <img height="40" src="src/images/React.png" />
+        <img height="40" src="src/images/Cypress.png" />
         <h2> What I want to learn </h2>
         <img height="40" src="src/images/Dart.png" />
         <img height="40" src="src/images/Rust.png" />
@@ -42,10 +51,14 @@
         <img height="40" src="src/images/UnrealEngine.png" />
         </dd></dl></dd></dl></dd></dl>
     </div>
+    <br />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dam277&show_icons=true&theme=dracula&line_height=33" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=nord&layout=compact">
 </div>
-<br />
 <hr />
 <div align="center">
     <h2> Other links </h2>
     <a href="https://dam277.github.io/dam277/">My portfolio</a>
 </div>
+<img src="https://github.com/dam277/dam277/blob/master/src/images/style/footer.svg" />
