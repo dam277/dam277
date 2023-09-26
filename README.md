@@ -14,7 +14,7 @@
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <div align="center">
-    <div >
+    <div>
         <dl><dd><dl><dd><dl><dd>
         <h2> What i know </h2>
         <img height="40" src="src/images/Cpp.png" />
