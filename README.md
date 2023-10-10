@@ -1,7 +1,7 @@
 <div align="center">
     <h1> <img src="src/images/style/welcome.svg" alt="Welcome to my account"> </h1>
     I'm Damien - 19 Years old - 3rd year apprentice developer <br />
-    I love and I'm passionated about software and web development <br />
+    I love and I'm passionated about software and web development ! <br />
     ✉️ You can reach me here at <a href="mailto:damien.loup14@gmail.com">damien.loup14@gmail.com </a> <br /> <br />
     <a href="https://www.linkedin.com/in/damien-loup-797a94257/">
         <img src="https://img.shields.io/badge/-Damien%20Loup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damien-loup-797a94257/" />
