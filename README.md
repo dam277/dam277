@@ -17,39 +17,63 @@
     <div>
         <dl><dd><dl><dd><dl><dd>
         <h2> What i know </h2>
-        <img height="40" src="src/images/Cpp.png" />
-        <img height="40" src="src/images/Csharp.png" />
-        <img height="40" src="src/images/Java.png" />
-        <img height="40" src="src/images/Swift.png" />
-        <img height="40" src="src/images/Html.png" />
-        <img height="40" src="src/images/Css.png" />
-        <img height="40" src="src/images/Javascript.png" />
-        <img height="40" src="src/images/Typescript.png" />
-        <img height="40" src="src/images/Php.png" />
-        <img height="40" src="src/images/Blade.png" />
-        <img height="40" src="src/images/Powershell.png" />
-        <img height="40" src="src/images/Sql.png" />
-        <img height="40" src="src/images/Sqlite.png" />
-        <img height="40" src="src/images/React.png" />
-        <img height="40" src="src/images/Cypress.png" />
-        <img height="40" src="src/images/DiscordJs.png" />
+        <!-- Languages -->
+        <div>
+            <img height="40" src="src/images/Cpp.png" />
+            <img height="40" src="src/images/Csharp.png" />
+            <img height="40" src="src/images/Java.png" />
+            <img height="40" src="src/images/Swift.png" />
+            <img height="40" src="src/images/Html.png" />
+            <img height="40" src="src/images/Css.png" />
+            <img height="40" src="src/images/Javascript.png" />
+            <img height="40" src="src/images/Typescript.png" />
+            <img height="40" src="src/images/Php.png" />
+            <img height="40" src="src/images/Blade.png" />
+            <img height="40" src="src/images/Powershell.png" />
+            <img height="40" src="src/images/Sql.png" />
+            <img height="40" src="src/images/Sqlite.png" />
+        </div><br />
+        <!-- Libraries / Frameworks -->
+        <div>
+            <img height="40" src="src/images/React.png" />
+            <img height="40" src="src/images/StyledComponents.png" />
+            <img height="40" src="src/images/Tailwind.png" />
+            <img height="40" src="src/images/Xamarin.png" />
+            <img height="40" src="src/images/Mysql.png" />
+            <img height="40" src="src/images/Cypress.png" />
+            <img height="40" src="src/images/DiscordJs.png" />
+        </div><br />
+        <!-- Engines -->
+        <div>
+        </div><br />
         <h2> What I want to learn </h2>
-        <img height="40" src="src/images/Dart.png" />
-        <img height="40" src="src/images/Rust.png" />
-        <img height="40" src="src/images/Go.png" />
-        <img height="40" src="src/images/Python.png" />
-        <img height="40" src="src/images/Sfml.png" />
-        <img height="40" src="src/images/Lwjgl.png" />
-        <img height="40" src="src/images/OpenGl.png" />
-        <img height="40" src="src/images/Laravel.png" />
-        <img height="40" src="src/images/Angular.png" />
-        <img height="40" src="src/images/Meteor.png" />
-        <img height="40" src="src/images/Three.png" />
-        <img height="40" src="src/images/Vue.png" />
-        <img height="40" src="src/images/Next.png" />
-        <img height="40" src="src/images/Electron.png" />
-        <img height="40" src="src/images/Unity.png" />
-        <img height="40" src="src/images/UnrealEngine.png" />
+        <!-- Languages -->
+        <div>
+            <img height="40" src="src/images/Dart.png" />
+            <img height="40" src="src/images/Rust.png" />
+            <img height="40" src="src/images/Go.png" />
+            <img height="40" src="src/images/Python.png" />
+        </div><br />
+        <!-- Libraries / Frameworks -->
+        <div>
+            <img height="40" src="src/images/Angular.png" />
+            <img height="40" src="src/images/Meteor.png" />
+            <img height="40" src="src/images/Three.png" />
+            <img height="40" src="src/images/Vue.png" />
+            <img height="40" src="src/images/Next.png" />
+            <img height="40" src="src/images/Electron.png" />
+            <img height="40" src="src/images/Laravel.png" />
+            <img height="40" src="src/images/Symfony.png" />
+            <img height="40" src="src/images/Sfml.png" />
+            <img height="40" src="src/images/Lwjgl.png" />
+            <img height="40" src="src/images/OpenGl.png" />
+            <img height="40" src="src/images/DiscordPy.png" />
+        </div><br />
+        <!-- Engines -->
+        <div>
+            <img height="40" src="src/images/Unity.png" />
+            <img height="40" src="src/images/UnrealEngine.png" />
+        </div>
         </dd></dl></dd></dl></dd></dl>
     </div>
     <br />
