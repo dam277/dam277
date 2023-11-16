@@ -62,6 +62,7 @@
             <img height="40" src="src/images/Vue.png" />
             <img height="40" src="src/images/Next.png" />
             <img height="40" src="src/images/Electron.png" />
+            <img height="40" src="src/images/Maui.png" />
             <img height="40" src="src/images/Laravel.png" />
             <img height="40" src="src/images/Symfony.png" />
             <img height="40" src="src/images/Sfml.png" />
