@@ -23,6 +23,7 @@
             <img height="40" src="src/images/Csharp.png" />
             <img height="40" src="src/images/Java.png" />
             <img height="40" src="src/images/Swift.png" />
+            <img height="40" src="src/images/Python.png" />
             <img height="40" src="src/images/Html.png" />
             <img height="40" src="src/images/Css.png" />
             <img height="40" src="src/images/Javascript.png" />
@@ -53,7 +54,6 @@
             <img height="40" src="src/images/Dart.png" />
             <img height="40" src="src/images/Rust.png" />
             <img height="40" src="src/images/Go.png" />
-            <img height="40" src="src/images/Python.png" />
         </div><br />
         <!-- Libraries / Frameworks -->
         <div>
