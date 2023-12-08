@@ -42,6 +42,7 @@
             <img height="40" src="src/images/Mysql.png" />
             <img height="40" src="src/images/Cypress.png" />
             <img height="40" src="src/images/DiscordJs.png" />
+            <img height="40" src="src/images/DiscordPy.png" />
         </div><br />
         <!-- Engines -->
         <div>
@@ -68,7 +69,6 @@
             <img height="40" src="src/images/Sfml.png" />
             <img height="40" src="src/images/Lwjgl.png" />
             <img height="40" src="src/images/OpenGl.png" />
-            <img height="40" src="src/images/DiscordPy.png" />
         </div><br />
         <!-- Engines -->
         <div>
