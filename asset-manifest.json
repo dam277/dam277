@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/dam277/static/css/main.570fef9b.css",
-    "main.js": "/dam277/static/js/main.fa064dda.js",
+    "main.js": "/dam277/static/js/main.de642fbc.js",
     "static/media/portfolio.png": "/dam277/static/media/portfolio.2bf2c54b28c90ec5818e.png",
     "static/media/smallPortrait.png": "/dam277/static/media/smallPortrait.dd39831e2a6e92284edc.png",
-    "static/media/DiscordBotServerManager.png": "/dam277/static/media/DiscordBotServerManager.75dbb40f28fa1aaf7822.png",
+    "static/media/DiscordBotServerManager.png": "/dam277/static/media/DiscordBotServerManager.40e1d4bd42abb1b660f4.png",
     "static/media/StyledComponents.png": "/dam277/static/media/StyledComponents.13efd064d512cbfccf65.png",
     "static/media/UnrealEngine.png": "/dam277/static/media/UnrealEngine.ad280a2fe859cc81c507.png",
     "static/media/Angular.png": "/dam277/static/media/Angular.b6d2a9dec3e43e0ffb95.png",
@@ -23,10 +23,10 @@
     "static/media/DiscordJs.png": "/dam277/static/media/DiscordJs.8d938c0ad6eb0fced59a.png",
     "index.html": "/dam277/index.html",
     "main.570fef9b.css.map": "/dam277/static/css/main.570fef9b.css.map",
-    "main.fa064dda.js.map": "/dam277/static/js/main.fa064dda.js.map"
+    "main.de642fbc.js.map": "/dam277/static/js/main.de642fbc.js.map"
   },
   "entrypoints": [
     "static/css/main.570fef9b.css",
-    "static/js/main.fa064dda.js"
+    "static/js/main.de642fbc.js"
   ]
 }
