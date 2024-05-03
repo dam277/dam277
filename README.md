@@ -44,6 +44,7 @@
             <img height="40" src="src/images/Cypress.png" />
             <img height="40" src="src/images/DiscordJs.png" />
             <img height="40" src="src/images/DiscordPy.png" />
+            <img height="40" src="src/images/Electron.png" />
         </div><br />
         <!-- Engines -->
         <div>
@@ -63,7 +64,6 @@
             <img height="40" src="src/images/Vue.png" />
             <img height="40" src="src/images/Next.png" />
             <img height="40" src="src/images/Astro.png" />
-            <img height="40" src="src/images/Electron.png" />
             <img height="40" src="src/images/Maui.png" />
             <img height="40" src="src/images/Laravel.png" />
             <img height="40" src="src/images/Symfony.png" />
