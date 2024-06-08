@@ -41,6 +41,9 @@
             <img height="40" src="src/images/Tailwind.png" />
             <img height="40" src="src/images/Xamarin.png" />
             <img height="40" src="src/images/Mysql.png" />
+            <img height="40" src="src/images/Sqlite.png" />
+            <img height="40" src="src/images/Flask.png" />
+            <img height="40" src="src/images/Sqlalchemy.png" />
             <img height="40" src="src/images/Cypress.png" />
             <img height="40" src="src/images/DiscordJs.png" />
             <img height="40" src="src/images/DiscordPy.png" />
@@ -67,6 +70,7 @@
             <img height="40" src="src/images/Maui.png" />
             <img height="40" src="src/images/Laravel.png" />
             <img height="40" src="src/images/Symfony.png" />
+            <img height="40" src="src/images/Spring.png" />
             <img height="40" src="src/images/Sfml.png" />
             <img height="40" src="src/images/Lwjgl.png" />
             <img height="40" src="src/images/OpenGl.png" />
