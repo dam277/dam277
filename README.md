@@ -1,6 +1,6 @@
 <div align="center">
     <h1> <img src="src/images/style/welcome.svg" alt="Welcome to my account"> </h1>
-    My name's Damien, i'm a 19 Years old 3rd year apprentice fullstack developer <br />
+    My name's Damien, i'm a 20 Years old 4th year apprentice fullstack developer <br />
     I love and I'm passionated about software and web development ! <br />
     ✉️ You can reach me here at <a href="mailto:damien.loup14@gmail.com">damien.loup14@gmail.com </a> <br /> <br />
     <a href="https://www.linkedin.com/in/damien-loup-797a94257/">
@@ -41,6 +41,9 @@
             <img height="40" src="src/images/Tailwind.png" />
             <img height="40" src="src/images/Xamarin.png" />
             <img height="40" src="src/images/Mysql.png" />
+            <img height="40" src="src/images/Sqlite.png" />
+            <img height="40" src="src/images/Flask.png" />
+            <img height="40" src="src/images/Sqlalchemy.png" />
             <img height="40" src="src/images/Cypress.png" />
             <img height="40" src="src/images/DiscordJs.png" />
             <img height="40" src="src/images/DiscordPy.png" />
@@ -67,6 +70,7 @@
             <img height="40" src="src/images/Maui.png" />
             <img height="40" src="src/images/Laravel.png" />
             <img height="40" src="src/images/Symfony.png" />
+            <img height="40" src="src/images/Spring.png" />
             <img height="40" src="src/images/Sfml.png" />
             <img height="40" src="src/images/Lwjgl.png" />
             <img height="40" src="src/images/OpenGl.png" />
