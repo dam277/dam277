@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dam277/static/css/main.570fef9b.css",
-    "main.js": "/dam277/static/js/main.056112d5.js",
+    "main.js": "/dam277/static/js/main.6af23581.js",
     "static/media/portfolio.png": "/dam277/static/media/portfolio.2bf2c54b28c90ec5818e.png",
     "static/media/smallPortrait.png": "/dam277/static/media/smallPortrait.dd39831e2a6e92284edc.png",
     "static/media/DiscordBotServerManager.png": "/dam277/static/media/DiscordBotServerManager.40e1d4bd42abb1b660f4.png",
@@ -10,6 +10,7 @@
     "static/media/Angular.png": "/dam277/static/media/Angular.b6d2a9dec3e43e0ffb95.png",
     "static/media/SkillioFramework.png": "/dam277/static/media/SkillioFramework.6c6611599c86d44fa1ba.png",
     "static/media/Rust.png": "/dam277/static/media/Rust.fc9dbf01cc1c555307d3.png",
+    "static/media/Flask.png": "/dam277/static/media/Flask.a1cdddc53ff58e4d7165.png",
     "static/media/Cypress.png": "/dam277/static/media/Cypress.87af694b183eebf2d6b7.png",
     "static/media/Tailwind.png": "/dam277/static/media/Tailwind.36b2728bf0d14b7b7576.png",
     "static/media/Sfml.png": "/dam277/static/media/Sfml.d31530390cc039bc929a.png",
@@ -22,10 +23,10 @@
     "static/media/DiscordJs.png": "/dam277/static/media/DiscordJs.8d938c0ad6eb0fced59a.png",
     "index.html": "/dam277/index.html",
     "main.570fef9b.css.map": "/dam277/static/css/main.570fef9b.css.map",
-    "main.056112d5.js.map": "/dam277/static/js/main.056112d5.js.map"
+    "main.6af23581.js.map": "/dam277/static/js/main.6af23581.js.map"
   },
   "entrypoints": [
     "static/css/main.570fef9b.css",
-    "static/js/main.056112d5.js"
+    "static/js/main.6af23581.js"
   ]
 }
