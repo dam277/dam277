@@ -37,6 +37,7 @@
         <!-- Libraries / Frameworks -->
         <div>
             <img height="40" src="src/images/React.png" />
+            <img height="40" src="src/images/Astro.png" />
             <img height="40" src="src/images/StyledComponents.png" />
             <img height="40" src="src/images/Tailwind.png" />
             <img height="40" src="src/images/Xamarin.png" />
@@ -66,7 +67,6 @@
             <img height="40" src="src/images/Three.png" />
             <img height="40" src="src/images/Vue.png" />
             <img height="40" src="src/images/Next.png" />
-            <img height="40" src="src/images/Astro.png" />
             <img height="40" src="src/images/Maui.png" />
             <img height="40" src="src/images/Laravel.png" />
             <img height="40" src="src/images/Symfony.png" />
