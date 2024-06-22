@@ -71,6 +71,7 @@
             <img height="40" src="src/images/Laravel.png" />
             <img height="40" src="src/images/Symfony.png" />
             <img height="40" src="src/images/Spring.png" />
+            <img height="40" src="src/images/Django.png" />
             <img height="40" src="src/images/Sfml.png" />
             <img height="40" src="src/images/Lwjgl.png" />
             <img height="40" src="src/images/OpenGl.png" />
