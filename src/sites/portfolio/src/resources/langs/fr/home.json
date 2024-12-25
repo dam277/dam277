@@ -1,0 +1,25 @@
+{
+    "welcomeMessage" : [
+        "Bienvenue ",
+        "sur mon site portfolio"
+    ],
+    "presentation" : {
+        "aboutMe" : [
+            "Je m'appelle ",
+            "Damien ",
+            "et j'ai ",
+            "{age:2004-03-14}",
+            "ans"
+        ],
+        "work" : [
+            "Je suis apprenti en développment d'application en quatrième année ",
+            "Front-end ",
+            "/ ",
+            "Back-end"
+        ]
+    },
+    "works" : {
+        "last" : "Derniers travaux réalisés",
+        "actual" : "Travaux actuels sur lesquels je travaille"
+    }
+}

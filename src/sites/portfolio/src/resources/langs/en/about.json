@@ -1,0 +1,29 @@
+{
+    "presentation" : 
+    [
+        { "text" : "{color:#71003a,id:0}HELLO{/color}"},
+        { "text" : "My name is Damien and I am {age:2004-03-14} years old !"},
+        { "text" : "My passions are :"},
+        { "text" : "{color:#C7046A,id:0}Badminton - Development - Video games{/color}"},
+        { "text" : "I am a fourth year development apprentice at the ETML in Switzerland"},
+        { "text" : "I am a developer with particular expertise in Back-end development"}
+    ],
+    "introduction" : 
+    {
+        "title" : "Introduction",
+        "texts" : 
+        [
+
+            { "text" : "I am a skilled developer with experience in multiple programming languages."},
+            { "text" : "I engage in daily programming activities to learn new languages, libraries, frameworks, etc., as well as to work on personal projects. I enjoy acquiring new knowledge and expanding my skillset to optimize the quality of my projects and work. I never give up at the first sign of a problem!"},
+            { "text" : "I have a quick learning curve and easily familiarize myself with the tools used in development."},
+            { "text" : "Since 2018, I have developed a strong interest in programming and related fields. Programming has become my predominant passion."},
+            { "text" : "My main goal is to excel in development and independently acquire new skills in other domains to design more complex projects."}
+        ]
+    },
+    "supplements" : 
+    {
+        "path" : "My career path",
+        "competences" : "My competences"
+    }
+}
