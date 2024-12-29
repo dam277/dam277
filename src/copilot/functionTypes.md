@@ -1,4 +1,5 @@
-In python : 
+In python :
+---
 A class function with one underscore is a protected function : 
 def _functionName:
 
