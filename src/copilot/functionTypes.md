@@ -1,7 +1,1 @@
-In python :
----
-A class function with one underscore is a protected function : 
-def _functionName:
-
-A class function with two underscores is a private function : 
-def __functionName:
+to make a mata function you need to define it with 3 underscores ___func_name
