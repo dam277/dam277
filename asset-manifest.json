@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dam277/static/css/main.570fef9b.css",
-    "main.js": "/dam277/static/js/main.783310d6.js",
+    "main.js": "/dam277/static/js/main.149e0be0.js",
     "static/media/portfolio.png": "/dam277/static/media/portfolio.2bf2c54b28c90ec5818e.png",
     "static/media/smallPortrait.png": "/dam277/static/media/smallPortrait.dd39831e2a6e92284edc.png",
     "static/media/DiscordBotServerManager.png": "/dam277/static/media/DiscordBotServerManager.40e1d4bd42abb1b660f4.png",
@@ -24,10 +24,10 @@
     "static/media/DiscordJs.png": "/dam277/static/media/DiscordJs.8d938c0ad6eb0fced59a.png",
     "index.html": "/dam277/index.html",
     "main.570fef9b.css.map": "/dam277/static/css/main.570fef9b.css.map",
-    "main.783310d6.js.map": "/dam277/static/js/main.783310d6.js.map"
+    "main.149e0be0.js.map": "/dam277/static/js/main.149e0be0.js.map"
   },
   "entrypoints": [
     "static/css/main.570fef9b.css",
-    "static/js/main.783310d6.js"
+    "static/js/main.149e0be0.js"
   ]
 }
