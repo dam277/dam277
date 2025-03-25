@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dam277/static/css/main.570fef9b.css",
-    "main.js": "/dam277/static/js/main.facfeda2.js",
+    "main.js": "/dam277/static/js/main.783310d6.js",
     "static/media/portfolio.png": "/dam277/static/media/portfolio.2bf2c54b28c90ec5818e.png",
     "static/media/smallPortrait.png": "/dam277/static/media/smallPortrait.dd39831e2a6e92284edc.png",
     "static/media/DiscordBotServerManager.png": "/dam277/static/media/DiscordBotServerManager.40e1d4bd42abb1b660f4.png",
@@ -14,6 +14,7 @@
     "static/media/Cypress.png": "/dam277/static/media/Cypress.87af694b183eebf2d6b7.png",
     "static/media/Tailwind.png": "/dam277/static/media/Tailwind.36b2728bf0d14b7b7576.png",
     "static/media/Sfml.png": "/dam277/static/media/Sfml.d31530390cc039bc929a.png",
+    "static/media/Bootstrap.png": "/dam277/static/media/Bootstrap.87d1a1210d2ffbacc0a2.png",
     "static/media/logoFooter.png": "/dam277/static/media/logoFooter.a6c46c40b289b03c5df5.png",
     "static/media/Sqlite.png": "/dam277/static/media/Sqlite.b0c9e1e6144572d619ca.png",
     "static/media/etml.png": "/dam277/static/media/etml.10f136b1ce4f388d67af.png",
@@ -23,10 +24,10 @@
     "static/media/DiscordJs.png": "/dam277/static/media/DiscordJs.8d938c0ad6eb0fced59a.png",
     "index.html": "/dam277/index.html",
     "main.570fef9b.css.map": "/dam277/static/css/main.570fef9b.css.map",
-    "main.facfeda2.js.map": "/dam277/static/js/main.facfeda2.js.map"
+    "main.783310d6.js.map": "/dam277/static/js/main.783310d6.js.map"
   },
   "entrypoints": [
     "static/css/main.570fef9b.css",
-    "static/js/main.facfeda2.js"
+    "static/js/main.783310d6.js"
   ]
 }
