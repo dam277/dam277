@@ -1,6 +1,6 @@
 <div align="center">
     <h1> <img src="src/images/style/welcome.svg" alt="Welcome to my account"> </h1>
-    My name's Damien, i'm a 20 Years old. <br />
+    My name's Damien, i'm a 21 Years old. <br />
     I am studying at ETML, the Higher Technical School in IT Management <br />
     I completed a 4-year apprenticeship at ETML and earned both a CFC and a diploma from the school. <br />
     I love and I'm passionated about software and web development ! <br />
