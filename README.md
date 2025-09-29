@@ -26,6 +26,7 @@
             <img height="40" src="src/images/Java.png" />
             <img height="40" src="src/images/Swift.png" />
             <img height="40" src="src/images/Python.png" />
+            <img height="40" src="src/images/Dart.png" />
             <img height="40" src="src/images/Html.png" />
             <img height="40" src="src/images/Css.png" />
             <img height="40" src="src/images/Javascript.png" />
@@ -58,7 +59,6 @@
         <h2> What I want to learn </h2>
         <!-- Languages -->
         <div>
-            <img height="40" src="src/images/Dart.png" />
             <img height="40" src="src/images/Rust.png" />
             <img height="40" src="src/images/Go.png" />
         </div><br />
