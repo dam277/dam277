@@ -52,6 +52,7 @@
             <img height="40" src="src/images/DiscordJs.png" />
             <img height="40" src="src/images/DiscordPy.png" />
             <img height="40" src="src/images/Electron.png" />
+            <img height="40" src="src/images/FXGL.png" />
         </div><br />
         <!-- Engines -->
         <div>
