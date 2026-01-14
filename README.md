@@ -145,3 +145,5 @@
 <div align="center">
   <p>Thanks for visiting! Feel free to reach out.</p>
 </div>
+
+<img src="https://github.com/dam277/dam277/blob/master/src/images/style/footer.svg" />
