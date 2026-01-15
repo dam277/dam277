@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Damien;IT+Management+Student;Software+%26+Web+Developer" alt="Typing SVG" />
   </a>
 
-  <h3>🎓 Student at ETML | 💻 Full-Stack Enthusiast</h3>
+  <h3>🎓 Student at ETML | 💻 Full-Stack Developer </h3>
   
   <p align="center">
     I'm a 21-year-old developer based in Switzerland.<br>
