@@ -23,8 +23,8 @@
     <tbody align="center">
       <tr>
         <td><b>2024 - Present</b></td>
-        <td>🎓 <b>Higher Diploma (ES)</b><br>IT Management</td>
-        <td>ETML</td>
+        <td>🎓 <b>Higher Diploma</b><br>IT Management</td>
+        <td>ETML ES</td>
       </tr>
       <tr>
         <td><b>2020 - 2024</b></td>
