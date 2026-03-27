@@ -6,7 +6,7 @@
   <h3>🎓 Student at ETML | 💻 Full-Stack Developer </h3>
   
   <p align="center">
-    I'm a 21-year-old developer based in Switzerland.<br>
+    I'm a 22-year-old developer based in Switzerland.<br>
     I am passionate about building scalable software, web development, and IT management.
   </p>
 
