@@ -137,8 +137,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dam277&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dam277&theme=dracula&hide_border=true&layout=compact&bg_color=20232a" height="180" alt="languages graph"  />
+  <img src="https://github-languages-card.vercel.app/api/top-languages?username=dam277&theme=darkNeon" width="800px" alt="stats graph"  />  
 </div>
 
 <hr />
