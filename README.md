@@ -39,7 +39,7 @@
     <a href="mailto:damien.loup14@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/damien-loup-797a94257/">
+    <a href="https://www.linkedin.com/in/damien-loup-685976256/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://dam277.github.io/dam277/">
